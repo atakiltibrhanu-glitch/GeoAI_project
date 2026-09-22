@@ -1,0 +1,106 @@
+feature_raw,feature,mean_abs_shap,normalized_shap,rank,city,seed
+hour_cos,Hour (cos),11.98301263204298,1.0,1,Zurich,11
+built_volume_density_200m,Built volume density,9.971581309577841,0.8321431025544859,2,Zurich,11
+hour_sin,Hour (sin),9.125931821550303,0.7615724110268609,3,Zurich,11
+facade_continuity_proxy,Facade continuity,8.565907135869018,0.7148375286664969,4,Zurich,11
+transit_stop_distance,Transit stop distance,6.753157403341048,0.5635609016452906,5,Zurich,11
+transit_frequency_index,Transit frequency,3.2222034540306996,0.2688976097224849,6,Zurich,11
+temp,Temperature,2.8984148945713346,0.24187697898447302,7,Zurich,11
+street_orientation_entropy,Street orientation entropy,2.5209148280576303,0.2103740441127984,8,Zurich,11
+ndbi_mean_s2,NDBI mean,2.4030479193174203,0.20053787750265648,9,Zurich,11
+building_density_200m,Building density,2.2544073624246015,0.18813360476615373,10,Zurich,11
+is_weekend,Weekend,1.9535723280255157,0.16302847939937887,11,Zurich,11
+betweenness_centrality,Betweenness centrality,1.9151669353199658,0.15982349298362122,12,Zurich,11
+sensor_ndvi_mean,NDVI mean,1.755899118504132,0.14653235980147417,13,Zurich,11
+intersection_density_300m,Intersection density,1.6064218684122449,0.13405826378890887,14,Zurich,11
+bus_stop_density_400m,Bus stop density,1.303380675647777,0.10876903126701988,15,Zurich,11
+precip,Precipitation,1.2862645626446205,0.10734066650360576,16,Zurich,11
+sensor_canopy_pct,Tree canopy,1.2466772413946623,0.10403704641527334,17,Zurich,11
+access_to_services_index,Access to services,1.1291555986520199,0.09422969275961704,18,Zurich,11
+street_enclosure_index_proxy,Street enclosure,0.9081422057093587,0.07578580058248088,19,Zurich,11
+street_canyon_ratio_mean_200m,Street canyon ratio,0.5261654350268351,0.04390927817432579,20,Zurich,11
+poi_count_300m,POI count,0.0,0.0,21,Zurich,11
+hour_cos,Hour (cos),11.51592195113607,1.0,1,Zurich,22
+built_volume_density_200m,Built volume density,9.694933520459763,0.8418721107695019,2,Zurich,22
+hour_sin,Hour (sin),8.939530670244755,0.7762757257453322,3,Zurich,22
+transit_stop_distance,Transit stop distance,7.5767212217533695,0.6579344019439025,4,Zurich,22
+facade_continuity_proxy,Facade continuity,7.108830499465442,0.6173045049826984,5,Zurich,22
+temp,Temperature,3.0379918573203284,0.26380795825215053,6,Zurich,22
+street_orientation_entropy,Street orientation entropy,2.923762056682947,0.25388866554401335,7,Zurich,22
+ndbi_mean_s2,NDBI mean,2.710245555436637,0.23534768357554436,8,Zurich,22
+sensor_ndvi_mean,NDVI mean,2.448858304472646,0.2126497830450354,9,Zurich,22
+intersection_density_300m,Intersection density,2.401162585463023,0.20850806350125908,10,Zurich,22
+transit_frequency_index,Transit frequency,2.3323763650508544,0.20253492294820222,11,Zurich,22
+is_weekend,Weekend,1.8191158083561083,0.15796527764558604,12,Zurich,22
+access_to_services_index,Access to services,1.7350558267471041,0.15066582025383884,13,Zurich,22
+building_density_200m,Building density,1.6884255232630603,0.14661661744733287,14,Zurich,22
+betweenness_centrality,Betweenness centrality,1.5050515366580985,0.13069309978343696,15,Zurich,22
+precip,Precipitation,1.4553805069132104,0.12637985157320678,16,Zurich,22
+bus_stop_density_400m,Bus stop density,1.3793807880331392,0.11978031753654429,17,Zurich,22
+sensor_canopy_pct,Tree canopy,0.8529084508840646,0.07406341016404018,18,Zurich,22
+street_enclosure_index_proxy,Street enclosure,0.5423751722184473,0.04709785065579929,19,Zurich,22
+street_canyon_ratio_mean_200m,Street canyon ratio,0.533435835792649,0.04632159179752207,20,Zurich,22
+poi_count_300m,POI count,0.0,0.0,21,Zurich,22
+hour_cos,Hour (cos),11.382355480624053,1.0,1,Zurich,33
+facade_continuity_proxy,Facade continuity,9.200581346907725,0.8083196279161798,2,Zurich,33
+transit_stop_distance,Transit stop distance,8.83394858081109,0.7761090044893552,3,Zurich,33
+hour_sin,Hour (sin),8.67076368427104,0.7617723501107571,4,Zurich,33
+built_volume_density_200m,Built volume density,7.8864401058276465,0.692865384432297,5,Zurich,33
+street_orientation_entropy,Street orientation entropy,4.440511118520463,0.3901223368115196,6,Zurich,33
+temp,Temperature,2.923736308593895,0.2568656648943104,7,Zurich,33
+intersection_density_300m,Intersection density,2.6201074381735636,0.2301902662092849,8,Zurich,33
+transit_frequency_index,Transit frequency,2.570223399427446,0.2258076901395923,9,Zurich,33
+ndbi_mean_s2,NDBI mean,2.3819653966334586,0.20926823105184414,10,Zurich,33
+sensor_ndvi_mean,NDVI mean,2.061406743809735,0.18110546163479296,11,Zurich,33
+is_weekend,Weekend,1.7923683390571108,0.1574690179118217,12,Zurich,33
+building_density_200m,Building density,1.4675081338572409,0.12892833441683924,13,Zurich,33
+betweenness_centrality,Betweenness centrality,1.3673593739617949,0.12012973731925894,14,Zurich,33
+precip,Precipitation,1.3531384562983624,0.11888035465082616,15,Zurich,33
+sensor_canopy_pct,Tree canopy,1.0928083041152488,0.09600897687438366,16,Zurich,33
+access_to_services_index,Access to services,0.9838204068199327,0.08643381490717537,17,Zurich,33
+bus_stop_density_400m,Bus stop density,0.8234155285449225,0.07234139980486513,18,Zurich,33
+street_canyon_ratio_mean_200m,Street canyon ratio,0.5663202183993761,0.049754219973485385,19,Zurich,33
+street_enclosure_index_proxy,Street enclosure,0.47506970454297154,0.04173738075143346,20,Zurich,33
+poi_count_300m,POI count,0.0,0.0,21,Zurich,33
+hour_cos,Hour (cos),11.700252433314594,1.0,1,Zurich,44
+built_volume_density_200m,Built volume density,8.832224645196773,0.7548747085189742,2,Zurich,44
+hour_sin,Hour (sin),8.644996936789452,0.7388726855306308,3,Zurich,44
+facade_continuity_proxy,Facade continuity,8.277104984947623,0.707429607362991,4,Zurich,44
+transit_stop_distance,Transit stop distance,7.5486649066782165,0.6451711148713855,5,Zurich,44
+ndbi_mean_s2,NDBI mean,3.2429669620467583,0.2771706833275605,6,Zurich,44
+transit_frequency_index,Transit frequency,3.0981902056861763,0.2647968685585429,7,Zurich,44
+temp,Temperature,2.9844832814294557,0.25507853770159844,8,Zurich,44
+street_orientation_entropy,Street orientation entropy,2.717207530198054,0.2322349492615425,9,Zurich,44
+sensor_ndvi_mean,NDVI mean,2.671539681875496,0.22833179857459443,10,Zurich,44
+intersection_density_300m,Intersection density,2.013896585873844,0.17212419965740194,11,Zurich,44
+building_density_200m,Building density,1.9315814050180122,0.16508886590499053,12,Zurich,44
+is_weekend,Weekend,1.912510671064982,0.1634589238108585,13,Zurich,44
+bus_stop_density_400m,Bus stop density,1.6493653100934076,0.14096835256281345,14,Zurich,44
+precip,Precipitation,1.3849038275112686,0.1183652947151787,15,Zurich,44
+betweenness_centrality,Betweenness centrality,1.3388987898592675,0.1144333250492073,16,Zurich,44
+access_to_services_index,Access to services,1.0903043315087115,0.09318639385969525,17,Zurich,44
+street_enclosure_index_proxy,Street enclosure,0.8885733451630066,0.07594480121069323,18,Zurich,44
+sensor_canopy_pct,Tree canopy,0.8282409443432693,0.07078829701015561,19,Zurich,44
+street_canyon_ratio_mean_200m,Street canyon ratio,0.757803133569662,0.06476810119172634,20,Zurich,44
+poi_count_300m,POI count,0.0,0.0,21,Zurich,44
+hour_cos,Hour (cos),11.62048703775679,1.0,1,Zurich,55
+built_volume_density_200m,Built volume density,9.279636763940054,0.7985583335525486,2,Zurich,55
+hour_sin,Hour (sin),8.741545167056188,0.7522529080453799,3,Zurich,55
+transit_stop_distance,Transit stop distance,7.171110424192704,0.6171092830182279,4,Zurich,55
+facade_continuity_proxy,Facade continuity,6.3311475436151925,0.5448263504829272,5,Zurich,55
+transit_frequency_index,Transit frequency,3.7030370643363355,0.3186645320720711,6,Zurich,55
+temp,Temperature,3.033550798464416,0.26105194976836443,7,Zurich,55
+ndbi_mean_s2,NDBI mean,2.8233549085662215,0.24296356076924291,8,Zurich,55
+sensor_ndvi_mean,NDVI mean,2.596798582001609,0.22346727581763154,9,Zurich,55
+street_orientation_entropy,Street orientation entropy,2.3707300769392146,0.20401297030290896,10,Zurich,55
+intersection_density_300m,Intersection density,1.8100287102028108,0.15576186302017658,11,Zurich,55
+is_weekend,Weekend,1.7685951619423421,0.15219630263309086,12,Zurich,55
+building_density_200m,Building density,1.7078871696162794,0.14697208164056164,13,Zurich,55
+betweenness_centrality,Betweenness centrality,1.5615223593881549,0.13437667064336659,14,Zurich,55
+bus_stop_density_400m,Bus stop density,1.5241034488575067,0.1311565895564837,15,Zurich,55
+precip,Precipitation,1.229392534570689,0.10579526749405592,16,Zurich,55
+access_to_services_index,Access to services,1.223958914843338,0.10532767782163545,17,Zurich,55
+street_enclosure_index_proxy,Street enclosure,0.9316781792058513,0.0801754845712303,18,Zurich,55
+sensor_canopy_pct,Tree canopy,0.8918338325300467,0.07674668278810848,19,Zurich,55
+street_canyon_ratio_mean_200m,Street canyon ratio,0.6726530097019982,0.05788509616821074,20,Zurich,55
+poi_count_300m,POI count,0.0,0.0,21,Zurich,55

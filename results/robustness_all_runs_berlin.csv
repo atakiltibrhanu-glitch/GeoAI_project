@@ -1,0 +1,106 @@
+feature_raw,feature,mean_abs_shap,normalized_shap,rank,city,seed
+hour_cos,Hour (cos),39.20942434283028,1.0,1,Berlin,11
+hour_sin,Hour (sin),27.873623832485535,0.7108909222632447,2,Berlin,11
+temp,Temperature,25.803845367737207,0.6581031422986352,3,Berlin,11
+street_enclosure_index_proxy,Street enclosure,21.324291361332495,0.5438562722799013,4,Berlin,11
+is_weekend,Weekend,16.010489110073546,0.40833267456529687,5,Berlin,11
+sensor_canopy_pct,Tree canopy,9.736416803138516,0.2483182797586491,6,Berlin,11
+built_volume_density_200m,Built volume density,7.84270628601672,0.20002094949019097,7,Berlin,11
+poi_count_300m,POI count,6.086941781749768,0.15524180433071846,8,Berlin,11
+building_density_200m,Building density,5.1569179619774355,0.1315224094311503,9,Berlin,11
+precip,Precipitation,3.9759239309410304,0.10140225207534974,10,Berlin,11
+betweenness_centrality,Betweenness centrality,3.434672351282615,0.08759813256250136,11,Berlin,11
+street_orientation_entropy,Street orientation entropy,3.2394324859259664,0.08261872088714609,12,Berlin,11
+facade_continuity_proxy,Facade continuity,2.593423411155854,0.06614285862705045,13,Berlin,11
+ndbi_mean_s2,NDBI mean,1.7063536759840057,0.043518967814074126,14,Berlin,11
+access_to_services_index,Access to services,0.8871667981024925,0.022626366312993758,15,Berlin,11
+transit_stop_distance,Transit stop distance,0.8207444814891118,0.020932326736370226,16,Berlin,11
+transit_frequency_index,Transit frequency,0.8147076899407635,0.020778363967226633,17,Berlin,11
+sensor_ndvi_mean,NDVI mean,0.8121913956524012,0.02071418821533696,18,Berlin,11
+intersection_density_300m,Intersection density,0.5581581705228215,0.01423530643149788,19,Berlin,11
+street_canyon_ratio_mean_200m,Street canyon ratio,0.4482991094949971,0.011433452977408267,20,Berlin,11
+bus_stop_density_400m,Bus stop density,0.0,0.0,21,Berlin,11
+hour_cos,Hour (cos),38.808247126115866,1.0,1,Berlin,22
+hour_sin,Hour (sin),27.802354249495213,0.7164032469476243,2,Berlin,22
+temp,Temperature,26.846999167606267,0.6917859258203826,3,Berlin,22
+street_enclosure_index_proxy,Street enclosure,21.577253029902245,0.5559965890699019,4,Berlin,22
+is_weekend,Weekend,16.351670534348546,0.4213452486325967,5,Berlin,22
+sensor_canopy_pct,Tree canopy,9.793276911331754,0.25235040581725743,6,Berlin,22
+built_volume_density_200m,Built volume density,7.832890172104786,0.20183571153446073,7,Berlin,22
+poi_count_300m,POI count,5.63671465981188,0.14524527844543317,8,Berlin,22
+building_density_200m,Building density,4.57834009879183,0.11797338034654116,9,Berlin,22
+precip,Precipitation,3.7919797756649825,0.09771066864581945,10,Berlin,22
+betweenness_centrality,Betweenness centrality,3.346831764632722,0.08624021986245506,11,Berlin,22
+street_orientation_entropy,Street orientation entropy,3.227934392304092,0.08317650580337255,12,Berlin,22
+facade_continuity_proxy,Facade continuity,2.043327752916165,0.05265189500252165,13,Berlin,22
+ndbi_mean_s2,NDBI mean,1.514982787335273,0.03903765048733085,14,Berlin,22
+intersection_density_300m,Intersection density,1.0766108184160097,0.027741804851874087,15,Berlin,22
+transit_frequency_index,Transit frequency,0.9728735222865261,0.025068731373642343,16,Berlin,22
+transit_stop_distance,Transit stop distance,0.7794869493158594,0.020085600536987575,17,Berlin,22
+street_canyon_ratio_mean_200m,Street canyon ratio,0.7389717916179234,0.019041617345315117,18,Berlin,22
+sensor_ndvi_mean,NDVI mean,0.7307852009922001,0.018830667579943876,19,Berlin,22
+access_to_services_index,Access to services,0.6919283693141254,0.017829415666869807,20,Berlin,22
+bus_stop_density_400m,Bus stop density,0.0,0.0,21,Berlin,22
+hour_cos,Hour (cos),39.96104678593941,1.0,1,Berlin,33
+hour_sin,Hour (sin),27.357833791874373,0.6846125412685743,2,Berlin,33
+temp,Temperature,26.272017002770095,0.657440660739,3,Berlin,33
+street_enclosure_index_proxy,Street enclosure,22.04683333686779,0.5517081035180773,4,Berlin,33
+is_weekend,Weekend,15.669269477712202,0.3921135890570702,5,Berlin,33
+sensor_canopy_pct,Tree canopy,10.19720949924123,0.25517873828143045,6,Berlin,33
+built_volume_density_200m,Built volume density,7.874056584283655,0.19704330135451306,7,Berlin,33
+poi_count_300m,POI count,5.154746641882047,0.12899428459656326,8,Berlin,33
+building_density_200m,Building density,4.946184206894923,0.12377514116159927,9,Berlin,33
+precip,Precipitation,3.7898500778605575,0.09483860866212454,10,Berlin,33
+betweenness_centrality,Betweenness centrality,3.474510190174958,0.08694742679757554,11,Berlin,33
+facade_continuity_proxy,Facade continuity,2.4501780571535554,0.061314161019817646,12,Berlin,33
+street_orientation_entropy,Street orientation entropy,2.212744926205188,0.05537254662167055,13,Berlin,33
+ndbi_mean_s2,NDBI mean,1.7438587602714406,0.04363896595634302,14,Berlin,33
+sensor_ndvi_mean,NDVI mean,1.4292866519586602,0.035766997286506653,15,Berlin,33
+transit_frequency_index,Transit frequency,1.2113142501464693,0.0303123753648185,16,Berlin,33
+street_canyon_ratio_mean_200m,Street canyon ratio,0.7689903788914346,0.019243499376047617,17,Berlin,33
+access_to_services_index,Access to services,0.7345274855907812,0.0183810872003791,18,Berlin,33
+intersection_density_300m,Intersection density,0.49386876458351564,0.01235875444477313,19,Berlin,33
+transit_stop_distance,Transit stop distance,0.4065113739627579,0.01017269082415008,20,Berlin,33
+bus_stop_density_400m,Bus stop density,0.0,0.0,21,Berlin,33
+hour_cos,Hour (cos),39.96646814014028,1.0,1,Berlin,44
+hour_sin,Hour (sin),28.005224704722046,0.7007180270851862,2,Berlin,44
+temp,Temperature,25.888784392821403,0.6477626269612758,3,Berlin,44
+street_enclosure_index_proxy,Street enclosure,22.22542300004201,0.5561017531524115,4,Berlin,44
+is_weekend,Weekend,16.318289400923618,0.40829951107274254,5,Berlin,44
+built_volume_density_200m,Built volume density,8.495871788919365,0.21257499559703513,6,Berlin,44
+sensor_canopy_pct,Tree canopy,7.969937133749606,0.19941559774067222,7,Berlin,44
+poi_count_300m,POI count,5.317984348289316,0.13306115340595243,8,Berlin,44
+building_density_200m,Building density,5.170107100882771,0.12936112049616363,9,Berlin,44
+precip,Precipitation,3.713506101917859,0.09291554332238337,10,Berlin,44
+betweenness_centrality,Betweenness centrality,3.4834189508826383,0.0871585384695044,11,Berlin,44
+street_orientation_entropy,Street orientation entropy,2.591821038995346,0.064849889409974,12,Berlin,44
+facade_continuity_proxy,Facade continuity,1.6970672740271897,0.04246227782941726,13,Berlin,44
+transit_stop_distance,Transit stop distance,1.439176354507847,0.03600959558051145,14,Berlin,44
+ndbi_mean_s2,NDBI mean,1.4067456543187855,0.035198147841988624,15,Berlin,44
+access_to_services_index,Access to services,1.3192769799311184,0.033009596327229725,16,Berlin,44
+sensor_ndvi_mean,NDVI mean,1.296047263767593,0.03242836617994547,17,Berlin,44
+transit_frequency_index,Transit frequency,1.2426386240456346,0.031092029940909188,18,Berlin,44
+street_canyon_ratio_mean_200m,Street canyon ratio,0.6873922580039996,0.01719922449974052,19,Berlin,44
+intersection_density_300m,Intersection density,0.3547915250266074,0.008877229876369108,20,Berlin,44
+bus_stop_density_400m,Bus stop density,0.0,0.0,21,Berlin,44
+hour_cos,Hour (cos),39.36953141132144,1.0,1,Berlin,55
+hour_sin,Hour (sin),28.59877154254293,0.7264188959668142,2,Berlin,55
+temp,Temperature,27.146016656532233,0.6895184088659458,3,Berlin,55
+street_enclosure_index_proxy,Street enclosure,22.599537048596186,0.5740362213733962,4,Berlin,55
+is_weekend,Weekend,16.360084864807597,0.41555193263242524,5,Berlin,55
+sensor_canopy_pct,Tree canopy,9.941057347777312,0.2525063670155489,6,Berlin,55
+built_volume_density_200m,Built volume density,7.288368224386492,0.18512712656495034,7,Berlin,55
+poi_count_300m,POI count,5.1684939938791485,0.13128157254096381,8,Berlin,55
+building_density_200m,Building density,4.581806313251032,0.11637949828210169,9,Berlin,55
+precip,Precipitation,3.895290889561866,0.09894176409835813,10,Berlin,55
+betweenness_centrality,Betweenness centrality,3.416055748605695,0.08676902229075921,11,Berlin,55
+street_orientation_entropy,Street orientation entropy,2.9184325609463704,0.07412921760372085,12,Berlin,55
+facade_continuity_proxy,Facade continuity,2.263681401334334,0.057498306944119996,13,Berlin,55
+access_to_services_index,Access to services,1.4538237480217455,0.03692763657338506,14,Berlin,55
+ndbi_mean_s2,NDBI mean,1.3480873798876136,0.0342418954851961,15,Berlin,55
+transit_stop_distance,Transit stop distance,1.159198135671091,0.029444041981605655,16,Berlin,55
+sensor_ndvi_mean,NDVI mean,0.8026577208085934,0.02038778954269632,17,Berlin,55
+transit_frequency_index,Transit frequency,0.7741948742325316,0.019664823188875892,18,Berlin,55
+street_canyon_ratio_mean_200m,Street canyon ratio,0.7458230161155669,0.018944167974046338,19,Berlin,55
+intersection_density_300m,Intersection density,0.5916588672206825,0.015028344153736613,20,Berlin,55
+bus_stop_density_400m,Bus stop density,0.0,0.0,21,Berlin,55
