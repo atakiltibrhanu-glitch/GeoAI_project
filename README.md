@@ -95,9 +95,6 @@ Raw third-party data should only be redistributed when the corresponding source 
 
 See [`REPRODUCIBILITY.md`](REPRODUCIBILITY.md) for the intended workflow and [`FEATURES.md`](FEATURES.md) for the 21-feature contract.
 
-## Citation
-
-If you use this repository, please cite the COSIT 2026 paper. A machine-readable citation template is provided in [`CITATION.cff`](CITATION.cff).
 
 ## Repository
 
