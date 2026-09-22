@@ -66,10 +66,6 @@ Time of day is the strongest shared signal in both cities. Beyond this temporal 
 ├── LICENSE_GUIDANCE.md
 ├── requirements.txt
 ├── .gitignore
-├── code/
-│   └── README.md
-├── data/
-│   └── README.md
 ├── figures/
 │   └── README.md
 ├── results/
