@@ -91,6 +91,8 @@ Raw third-party data should only be redistributed when the corresponding source 
 
 See [`REPRODUCIBILITY.md`](REPRODUCIBILITY.md) for the intended workflow and [`FEATURES.md`](FEATURES.md) for the 21-feature contract.
 
+## Code availability: 
+The original analysis scripts used for the published study are no longer available. This repository therefore provides the published paper, feature definitions, derived SHAP results, robustness outputs, figures, and documentation of the analytical workflow. Reconstructed reproducibility code may be added in a future release and will be clearly identified as reconstructed rather than the original analysis code.
 
 ## Repository
 
