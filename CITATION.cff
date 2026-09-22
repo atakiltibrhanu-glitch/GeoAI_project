@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the COSIT 2026 paper."
+title: "COSIT 2026 Reproducibility Materials: From Feature Attribution to Spatial Information Structure"
+type: dataset
+authors:
+  - family-names: "Kiros"
+    given-names: "Atakilti"
+  - family-names: "Cohen"
+    given-names: "Achituv"
+  - family-names: "Ribakov"
+    given-names: "Yuri"
+  - family-names: "Klein"
+    given-names: "Israel"
+repository-code: "https://github.com/atakiltibrhanu-glitch/GeoAI_project"
+url: "https://github.com/atakiltibrhanu-glitch/GeoAI_project"
+date-released: 2026-09-22
+
+preferred-citation:
+  type: conference-paper
+  title: "From Feature Attribution to Spatial Information Structure: Interpreting Urban Pedestrian Flows with Explainable AI"
+  authors:
+    - family-names: "Kiros"
+      given-names: "Atakilti"
+    - family-names: "Cohen"
+      given-names: "Achituv"
+    - family-names: "Ribakov"
+      given-names: "Yuri"
+    - family-names: "Klein"
+      given-names: "Israel"
+  year: 2026
+  collection-title: "Leibniz International Proceedings in Informatics (LIPIcs)"
+  volume: "393"
+  start: "30:1"
+  end: "30:8"
+  publisher:
+    name: "Schloss Dagstuhl – Leibniz-Zentrum für Informatik"
+  doi: "10.4230/LIPIcs.COSIT.2026.30"
+  url: "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.COSIT.2026.30"
